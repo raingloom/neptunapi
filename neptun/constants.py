@@ -1,0 +1,2 @@
+logout="lbtnQuit"
+nextmsg="upRequiredMessageReader_upmodal_RequiredMessageReader_upFootermodal_RequiredMessageReader_footerbtn_modal_RequiredMessageReader_Tovabb"

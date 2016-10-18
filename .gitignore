@@ -1,4 +1,4 @@
 #ignore Cloud 9
 .c9
-__pycache__
+**/__pycache__
 *.pyc
