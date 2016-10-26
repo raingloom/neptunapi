@@ -63,7 +63,7 @@ class Client:
     def kill_logout_timer(self):
         self.browser.execute_script("clearTimeout(timerID2)")
     def maxout_logout_timer(self):
-        self.browser.execute_script("countdown=~(1<<63)")
+        self.browser.execute_script("countdown=Number.MAX_VALUE")
         
         
         
